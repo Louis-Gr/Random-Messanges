@@ -1,51 +1,32 @@
 # Random Deep Messanges
-> the goal is to send you a deep, inspiring and most important random message. Whenever you need Inspiration just generate yourself some.
+> the goal is to send you a deep and most important random message. Whenever you need Inspiration just generate yourself some.
 ## Table of contents
 * [General info](#general-info)
-* [Screenshots](#screenshots)
 * [Technologies](#technologies)
-* [Setup](#setup)
 * [Features](#features)
 * [Status](#status)
 * [Inspiration](#inspiration)
-* [Contact](#contact)
 
 ## General info
 With this project i want to improve my skills in JavaScript and the Workflow with VisualStudio and GitHub
 The Idea is from @codecademy, where i do a Course to become a Full-Stack-Developer.
 // Add more general information about project. What the purpose of the project is? Motivation?
 
-## Screenshots
-![Example screenshot](./img/screenshot.png)
-
 ## Technologies
-* Tech 1 - version 1.0
-* Tech 2 - version 2.0
-* Tech 3 - version 3.0
++ Node.js - v14.16.1
+* Visual Studio - v1.55.2
 
-## Setup
-Describe how to install / setup your local environement / add link to demo version.
-
-## Code Examples
-Show examples of usage:
-`put-your-code-here`
 
 ## Features
 List of features ready and TODOs for future development
-* Awesome feature 1
-* Awesome feature 2
-* Awesome feature 3
+* Create as many Messanges as you need!
 
 To-do list:
-* Wow improvement to be done 1
-* Wow improvement to be done 2
+* Add a bigger variaty of Messanges
++ Display it in the Browser
 
 ## Status
-Project is: _in progress_, _finished_, _no longer continue_ and why?
+Project is: _in progress_
 
 ## Inspiration
-Add here credits. Project inspired by..., based on...
-
-## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
-
+Project inspired by Codecadmy 
