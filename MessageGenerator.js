@@ -6,8 +6,9 @@ const verbsThirdPerson = ["is","will be","was", "can be", "should be", "would be
 const verbsSecondPerson = ["are", "will be", "were", "can be", "should be", "would be"]
 const negation = "not"
 const comparison = "like"
-const adjectives = ["beautiful","furry","short","small","big", "worth it","fat","versetile","organic","bubbly","savage"]
-const comparisonWords = ["Water","the Elements","Jürgen Drews","Music","Jabba the Hut", "a glas of wine","a River","my Girlfriend", "skateboards", "a table","the sun"]
+const adjectives = ["beautiful","furry","short","small","big", "worth it","fat","versetile","organic"]
+const comparisonWords = ["Water","the Elements","Jürgen Drews","Music","Jabba the Hut", "a glas of wine", "skateboards", "a table","the sun"]
+
 
 
 function createScentences(num){
